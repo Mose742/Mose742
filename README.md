@@ -1,35 +1,56 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Moses Okumu
-===================================================================================================================================
-
-May the data be with you!
----------------------
-
-I am a power bi and R data analyst who loves viz
-
-* 🌍  I'm based in Kisumu KE
-* ✉️  You can contact me at [moseso664@gmail.com](mailto:moseso664@gmail.com)
-* 🤝  I'm open to collaborating on Power BI projects
-
-### Skills
-
-
-<p align="left">
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+<h3>Hi, I'm Moses Okumu 👋</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/ghCVIZSBxwZ81IiBjv/giphy.gif" width="600" height="300" alt="Animated banner"/>
+</div>
+<p>I'm a data analyst based in Nairobi, Kenya, with [X] years of experience in monitoring and evaluation, health data and humanitarian analytics. I currently work as Data Analytics &amp; Impact Officer at World Relief, where I lead multi-country monitoring and evaluation, donor reporting and data quality assurance for refugee and host-community programmes. Before that, I worked with NASCOP and KEMRI on health data.</p>
+<p>Most of my work is turning field data, often collected with ODK and KoboToolbox, into Power BI dashboards and R analyses that programme teams can use to make decisions. I care about clean data, honest charts and visuals that a busy reader understands at a glance.</p>
+<p>I hold the Microsoft Power BI Data Analyst Associate (PL-300) certification, I'm completing an MSc in Data Analytics (2027), and I run <b>Moses Analytics</b>, a training practice for people learning Power BI and R.</p>
+<ul>
+  <li>📊 <b>Portfolio:</b> <a href="https://mose742.github.io/portfolio/">mose742.github.io/portfolio</a></li>
+  <li>🔭 <b>Currently working on:</b> [current project]</li>
+  <li>🌱 <b>Currently learning:</b> [what you're learning]</li>
+  <li>💬 <b>Ask me about:</b> Power BI, DAX, Deneb, R and ggplot2, ODK/Kobo data pipelines, M&amp;E indicators</li>
+</ul>
+<h2>Skills</h2>
+<h4>Data &amp; BI</h4>
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&amp;logo=powerbi&amp;logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/DAX-1F3A5F?style=for-the-badge" alt="DAX"/>
+  <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge" alt="Power Query"/>
+  <img src="https://img.shields.io/badge/Deneb%20%2F%20Vega--Lite-E9A23B?style=for-the-badge" alt="Deneb / Vega-Lite"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&amp;logo=microsoftexcel&amp;logoColor=white" alt="Excel"/>
 </p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/Mose742" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/mosesokumu/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Mose742"><img src="https://github-readme-stats.vercel.app/api?username=Mose742&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Mose742's GitHub stats" /></a>
-
-<a href="http://www.github.com/Mose742"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mose742&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/Mose742"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mose742&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/Mose742" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mose742&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<h4>Languages</h4>
+<p>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&amp;logo=r&amp;logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/Quarto-39729E?style=for-the-badge&amp;logo=quarto&amp;logoColor=white" alt="Quarto"/>
+</p>
+<h4>Data collection</h4>
+<p>
+  <img src="https://img.shields.io/badge/ODK-1F2430?style=for-the-badge" alt="ODK"/>
+  <img src="https://img.shields.io/badge/KoboToolbox-2095F3?style=for-the-badge" alt="KoboToolbox"/>
+  <img src="https://img.shields.io/badge/ONA-B4532F?style=for-the-badge" alt="ONA"/>
+</p>
+<h4>Tools &amp; OS</h4>
+<p>
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&amp;logo=rstudioide&amp;logoColor=white" alt="RStudio"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="Windows"/>
+</p>
+<h2>Certifications</h2>
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20Certified-Power%20BI%20Data%20Analyst%20Associate-0078D4?style=for-the-badge&amp;logo=microsoft&amp;logoColor=white" alt="Microsoft Certified: Power BI Data Analyst Associate"/>
+</p>
+<h2>Featured work</h2>
+<table>
+  <tr><th>Project</th><th>Tools</th><th>What it shows</th></tr>
+  <tr><td><a href="https://mose742.github.io/portfolio/projects/kenya-progression/">From KCSE to Graduation</a></td><td>R · ggplot2</td><td>6,000 Kenyan students traced from KCSE results to graduation</td></tr>
+  <tr><td><a href="https://mose742.github.io/portfolio/projects/education-inequality/">Same Money, Same Scores?</a></td><td>R · ggplot2</td><td>Funding, poverty and test scores across 1,000 schools</td></tr>
+  <tr><td><a href="https://mose742.github.io/portfolio/projects/arizona-drought/">Arizona's Drought, Week by Week</a></td><td>Power BI · Deneb</td><td>Weekly drought severity heatmap for 15 counties</td></tr>
+</table>
+<h2>Connect with me</h2>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://mose742.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-1F3A5F?style=for-the-badge&amp;logo=githubpages&amp;logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-B4532F?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/></a>
+</div>
