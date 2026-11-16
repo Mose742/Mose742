@@ -58,9 +58,17 @@
   <tr><td><a href="https://mose742.github.io/portfolio/projects/arizona-drought/">Arizona's Drought, Week by Week</a></td><td>Power BI · Deneb</td><td>Weekly drought severity heatmap for 15 counties</td></tr>
 </table>
 
+
 <h2>Connect with me</h2>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://mose742.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-1F3A5F?style=for-the-badge&amp;logo=githubpages&amp;logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-B4532F?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/mosesokumu/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://mose742.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-1F3A5F?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-B4532F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </div>
+
