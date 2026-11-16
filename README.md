@@ -11,8 +11,6 @@
 
 <ul>
   <li>📊 <b>Portfolio:</b> <a href="https://mose742.github.io/portfolio/">mose742.github.io/portfolio</a></li>
-  <li>🔭 <b>Currently working on:</b> [current project]</li>
-  <li>🌱 <b>Currently learning:</b> [what you're learning]</li>
   <li>💬 <b>Ask me about:</b> Power BI, DAX, Deneb, R and ggplot2, ODK/Kobo data pipelines, M&amp;E indicators</li>
 </ul>
 
