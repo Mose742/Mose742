@@ -4,11 +4,10 @@
   <img src="banner.gif" width="100%" alt="Let's visualize it! Animated banner with a bar and line chart building up"/>
 </div>
 
-<p>I'm a data analyst based in Nairobi, Kenya, with [X] years of experience in monitoring and evaluation, health data and humanitarian analytics. I currently work as Data Analytics &amp; Impact Officer at World Relief, where I lead multi-country monitoring and evaluation, donor reporting and data quality assurance for refugee and host-community programmes. Before that, I worked with NASCOP and KEMRI on health data.</p>
+<p>I'm a data analyst based in Nairobi, Kenya, with 10 years of experience in monitoring and evaluation, health data and humanitarian analytics. I currently work as Data Analytics &amp; Impact Officer at World Relief, where I lead multi-country monitoring and evaluation, donor reporting and data quality assurance for refugee and host-community programmes. Before that, I worked with NASCOP and KEMRI on health data.</p>
 
 <p>Most of my work is turning field data, often collected with ODK and KoboToolbox, into Power BI dashboards and R analyses that programme teams can use to make decisions. I care about clean data, honest charts and visuals that a busy reader understands at a glance.</p>
 
-<p>I hold the Microsoft Power BI Data Analyst Associate (PL-300) certification, I'm completing an MSc in Data Analytics (2027), and I run <b>Moses Analytics</b>, a training practice for people learning Power BI and R.</p>
 
 <ul>
   <li>📊 <b>Portfolio:</b> <a href="https://mose742.github.io/portfolio/">mose742.github.io/portfolio</a></li>
